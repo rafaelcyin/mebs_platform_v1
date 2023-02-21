@@ -1,21 +1,10 @@
-absl-py @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_09tbpzfe9v/croot/absl-py_1666362946999/work
-aiohttp @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_690hlorvpy/croot/aiohttp_1670009554132/work
-aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
 altair==4.2.2
 aniso8601==9.0.1
 anyio==3.6.2
 astunparse==1.6.3
-async-timeout @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_732x52axrd/croots/recipe/async-timeout_1664876366763/work
-attrs @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_33k1uces4n/croot/attrs_1668696162258/work
 blinker==1.4
 brotlipy==0.7.0
-cachetools @ file:///tmp/build/80754af9/cachetools_1619597386817/work
-certifi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_477u68wvzm/croot/certifi_1671487773341/work/certifi
-cffi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_1b0qzba5nr/croot/cffi_1670423213150/work
-charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
-click @ file:///opt/concourse/worker/volumes/live/17ca243b-fc66-462b-4bc1-f11ad524e336/volume/click_1646056621177/work
 contourpy==1.0.7
-cryptography @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_0ayq9hu973/croot/cryptography_1673298756837/work
 customtkinter==5.1.2
 cycler==0.11.0
 darkdetect==0.8.0
@@ -25,45 +14,25 @@ entrypoints==0.4
 fastapi==0.89.1
 Flask==2.2.2
 Flask-RESTful==0.3.9
-flatbuffers @ file:///home/ktietz/cip/python-flatbuffers_1634039120618/work
-flit_core @ file:///opt/conda/conda-bld/flit-core_1644941570762/work/source/flit_core
 fonttools==4.38.0
-frozenlist @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_5eiq5594pj/croot/frozenlist_1670004516635/work
-gast @ file:///Users/ktietz/demo/mc3/conda-bld/gast_1628588903283/work
 gitdb==4.0.10
 GitPython==3.1.31
-google-auth @ file:///opt/conda/conda-bld/google-auth_1646735974934/work
-google-auth-oauthlib @ file:///tmp/build/80754af9/google-auth-oauthlib_1617120569401/work
-google-pasta @ file:///Users/ktietz/demo/mc3/conda-bld/google-pasta_1630577991354/work
-grpcio @ file:///Users/builder/miniconda3/envs/prefect/conda-bld/grpcio_1637592347008/work
 h11==0.14.0
-h5py @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_7fnj4n39p5/croots/recipe/h5py_1659091379933/work
-idna @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_00jf0h4zbt/croot/idna_1666125573348/work
-importlib-metadata @ file:///opt/concourse/worker/volumes/live/04344671-a59e-4800-6391-124f9c0e5484/volume/importlib-metadata_1648562417587/work
 itsdangerous==2.1.2
 Jinja2==3.1.2
 joblib==1.2.0
 jsonschema==4.17.3
-keras @ file:///Users/ec2-user/miniconda3/conda-bld/keras_1669750590284/work/keras-2.10.0-py2.py3-none-any.whl
-Keras-Preprocessing @ file:///tmp/build/80754af9/keras-preprocessing_1612283640596/work
 kiwisolver==1.4.4
-Markdown @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_90m_zl2p10/croot/markdown_1671541913695/work
 markdown-it-py==2.1.0
-MarkupSafe @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_d4a9444f-bd4c-4043-b47d-cede33979b0fve7bm42r/croots/recipe/markupsafe_1654597878200/work
 matplotlib==3.6.3
 mdurl==0.1.2
 mkl-fft==1.3.1
-mkl-random @ file:///opt/concourse/worker/volumes/live/0cda23d8-7460-44b2-7e5d-3c76a8a0ca7e/volume/mkl_random_1626186083266/work
 mkl-service==2.4.0
 mlxtend==0.21.0
-multidict @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_81upqwhecp/croot/multidict_1665674236996/work
 mysql-connector-python==8.0.32
 mysql-connector-python-rf==2.2.2
 numpy @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_8cgikbzvtd/croot/numpy_and_numpy_base_1672336184666/work
-oauthlib @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_e3t7wlur19/croot/oauthlib_1665490902383/work
 opencv-python==4.7.0.68
-opt-einsum @ file:///tmp/build/80754af9/opt_einsum_1621500238896/work
-packaging @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_bet5qdixgt/croot/packaging_1671697440883/work
 pandas==1.5.3
 Pillow==9.4.0
 platformdirs==2.6.2
